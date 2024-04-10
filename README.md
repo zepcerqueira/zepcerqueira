@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Highly motivated and qualified data analyst and project manager, with 5+ years of experience developing and leading successful projects. Proven ability to solve complex technical challenges and deliver results. I am seeking a role in data analytics/machine learning to leverage my expertise and to contribute to innovation in this rapidly evolving field.
+#### Highly motivated and qualified data analyst and project manager, with 5+ years of experience developing and leading successful projects. Proven ability to solve complex technical challenges and deliver results. I am seeking a role in data analytics/machine learning to leverage my expertise and to contribute to innovation in this rapidly evolving field.
 
 <!--
 **zepcerqueira/zepcerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
